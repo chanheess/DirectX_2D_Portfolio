@@ -1,7 +1,3 @@
-# DirectX_2D_Portfolio
- imitate freestyle1
-
-
 # [DirectX 2D]
 DirectX를 통해 프리스타일1를 모작하였습니다. - vs17버전 사용
 
